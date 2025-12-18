@@ -1,34 +1,40 @@
-# AI-ML-learning
+# AI & ML Learning Repository
 
-### 📌 About
-Self-learning projects and practice notebooks while studying Artificial Intelligence and Machine Learning using Python.
+This repository contains my learning journey and hands-on practice in **Artificial Intelligence and Machine Learning** using **Python**.  
+It includes Jupyter notebooks covering fundamental concepts, experiments, and small projects as part of my coursework and self-study.
 
-### 🛠 Technologies Used
-- Python
+I am a **B.Tech AI & ML student**, and this repository is meant to track my progress, experiments, and understanding of ML concepts.
+
+---
+
+## 📂 Contents
+
+- **Keras Classification Notebook**  
+  Implementation of a basic classification model using Keras, including data preprocessing, model building, training, and evaluation.
+
+- **Deep Learning / RNN Notebook**  
+  Practice notebook exploring recurrent neural networks and sequence-based learning.
+
+- **Additional ML Practice Notebooks**  
+  Experiments related to Python-based machine learning concepts and workflows.
+
+*(More notebooks will be added as I continue learning and experimenting.)*
+
+---
+
+## 🛠️ Technologies Used
+
+- Python 3
 - NumPy
 - Pandas
 - Matplotlib
-- Scikit-learn
+- TensorFlow / Keras
 - Jupyter Notebook
 
-## Deep Learning Notebooks
+---
 
-- **Keras Image Classification**
-  - Built a neural network using Keras for multi-class image classification.
-  - Covered data preprocessing, model building, training, and evaluation.
+## 🚀 How to Use
 
-- **Keras Object Detection**
-  - Implemented an object detection pipeline using Keras.
-  - Focused on understanding model architecture and prediction workflow.
-
-- **RNN – IMDB Movie Review Sentiment Analysis**
-  - Built a sentiment analysis model using Recurrent Neural Networks (RNN) with TensorFlow and Keras.
-  - Used the IMDB dataset to classify movie reviews as positive or negative.
-
-### 📚 Purpose
-This repository is used to track my learning progress, hands-on practice,
-and mini projects in AI & ML during my B.Tech studies.
-
-### 👩‍🎓 Author
-Prachi Dasadiya  
-B.Tech AI & ML – Nirma University
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/PrachiDasadiya/AI-ML-learning.git
