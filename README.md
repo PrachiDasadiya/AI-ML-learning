@@ -21,6 +21,9 @@ Self-learning projects and practice notebooks while studying Artificial Intellig
   - Implemented an object detection pipeline using Keras.
   - Focused on understanding model architecture and prediction workflow.
 
+- **RNN – IMDB Movie Review Sentiment Analysis**
+  - Built a sentiment analysis model using Recurrent Neural Networks (RNN) with TensorFlow and Keras.
+  - Used the IMDB dataset to classify movie reviews as positive or negative.
 
 ### 📚 Purpose
 This repository is used to track my learning progress, hands-on practice,
