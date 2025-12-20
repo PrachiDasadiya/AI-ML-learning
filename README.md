@@ -18,6 +18,17 @@ I am a **B.Tech AI & ML student**, and this repository is meant to track my prog
 - **Additional ML Practice Notebooks**  
   Experiments related to Python-based machine learning concepts and workflows.
 
+## Projects Overview
+
+### Computer Vision
+- Face Detection using OpenCV
+- Invisibility Cloak Effect using HSV masking
+
+### Deep Learning
+- Image Classification using Keras
+- Object Detection using Keras
+- Sentiment Analysis on IMDB Dataset using RNN
+
 *(More notebooks will be added as I continue learning and experimenting.)*
 
 ---
