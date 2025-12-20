@@ -9,14 +9,19 @@ I am a **B.Tech AI & ML student**, and this repository is meant to track my prog
 
 ## 📂 Contents
 
-- **Keras Classification Notebook**  
-  Implementation of a basic classification model using Keras, including data preprocessing, model building, training, and evaluation.
+- **computer-vision/**  
+  OpenCV-based computer vision projects including real-time face detection
+  and invisibility cloak effect.
 
-- **Deep Learning / RNN Notebook**  
-  Practice notebook exploring recurrent neural networks and sequence-based learning.
+- **classification_keras.ipynb**  
+  Image classification using Keras with data preprocessing, model training,
+  and evaluation.
 
-- **Additional ML Practice Notebooks**  
-  Experiments related to Python-based machine learning concepts and workflows.
+- **keras_object_detection.ipynb**  
+  Object detection experiment implemented using Keras.
+
+- **rnn_imdb_sentiment_analysis.ipynb**  
+  Sentiment analysis on the IMDB movie reviews dataset using RNNs.
 
 ## Projects Overview
 
