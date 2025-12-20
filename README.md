@@ -32,9 +32,3 @@ I am a **B.Tech AI & ML student**, and this repository is meant to track my prog
 - Jupyter Notebook
 
 ---
-
-## 🚀 How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/PrachiDasadiya/AI-ML-learning.git
