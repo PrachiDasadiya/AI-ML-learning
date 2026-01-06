@@ -34,6 +34,10 @@ I am a **B.Tech AI & ML student**, and this repository is meant to track my prog
 - Object Detection using Keras
 - Sentiment Analysis on IMDB Dataset using RNN
 
+### Natural Language Processing
+- Sentiment Analysis using RNN (IMDB Dataset)
+- Text Classification using BERT (Transformers)
+
 *(More notebooks will be added as I continue learning and experimenting.)*
 
 ---
